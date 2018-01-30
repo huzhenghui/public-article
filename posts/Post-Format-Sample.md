@@ -20,8 +20,8 @@ categories: help
 需要注意 Hugo 按照 .md 文件中的 date 变量排序，如果不写或者格式错误，那么就会被排在最后了。
 可以在 GitHub 中预览 Markdown Front Matter 语法是否正确，例如上例预览效果为
 
-title | date | tags | categories
--|-|-|-
-Post Format Sample 文章格式示例 | 2018-01-30 09:54:55 `-0800` | help | help
+title                          |           date              | tags | categories
+-------------------------------|-----------------------------|------|------------
+Post Format Sample 文章格式示例 | 2018-01-30 09:54:55 `-0800` | help |    help
 
 预览中在 date 变量看到时区，也就是 `-0800` 或者类似的字样代表正确。
