@@ -1,8 +1,8 @@
 ---
 title: Post Format Sample 文章格式示例
 date: 2018-01-30 17:54:55
-tags: [test]
-categories: test
+tags: [help]
+categories: help
 ---
 
 # Post Format Sample 文章格式示例
@@ -13,8 +13,8 @@ categories: test
 ---
 title: Post Format Sample 文章格式示例
 date: 2018-01-30 17:54:55
-tags: [test]
-categories: test
+tags: [help]
+categories: help
 ---
 ```
 需要注意 Hugo 按照 .md 文件中的 date 变量排序，如果不写或者格式错误，那么就会被排在最后了。
@@ -22,6 +22,6 @@ categories: test
 
 title | date | tags | categories
 -|-|-|-
-Post Format Sample 文章格式示例 | 2018-01-30 09:54:55 `-0800` | test | test
+Post Format Sample 文章格式示例 | 2018-01-30 09:54:55 `-0800` | help | help
 
 预览中在 date 变量看到时区，也就是 `-0800` 或者类似的字样代表正确。
