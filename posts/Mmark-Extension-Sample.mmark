@@ -1,3 +1,4 @@
+
 ---
 title: Mmark Extension Sample Mmark 扩展名示例
 date: 2018-01-30 17:54:55
@@ -9,3 +10,8 @@ categories: test
 | title | date | tags | categories |
 | - | - | - |-|
 | Post Format Sample 文章格式示例 | 2018-01-30 09:54:55 -0800 | test | test |
+
+   Name | Age
+--------|------
+    Bob | 27
+  Alice | 23
