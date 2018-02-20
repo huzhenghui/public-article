@@ -3,6 +3,7 @@ title: Contact
 date: 2018-02-20 12:34:56
 tags: [help]
 categories: help
+banner: "weixin-group.jpg"
 ---
 
 # 微信群
