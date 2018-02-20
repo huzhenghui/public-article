@@ -19,8 +19,6 @@ categories: help
 * Twitter **TODO**
 * Bitbucket [https://bitbucket.org/huzhenghui/](https://bitbucket.org/huzhenghui/)
 * Docker [https://hub.docker.com/r/huzhenghui](https://hub.docker.com/r/huzhenghui)
-
-
 * 微信 huzhenghui
 
 ![微信](weixin-hu.jpg)
